@@ -38,7 +38,7 @@
   [1X1.2-1 UnderlyingCell[101X
   
   [33X[1;0Y[29X[2XUnderlyingCell[102X( [3Xc[103X ) [32X attribute[133X
-  [6XReturns:[106X  [33X[0;10Ya [5XCAP[105X category[133X
+  [6XReturns:[106X  [33X[0;10Ya [5XCAP[105X category object or listlist[133X
   
   [33X[0;0YThe CAP category object or listlist of CAP category morphisms underlying the
   cell (=object or morphism) [3Xc[103X.[133X
